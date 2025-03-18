@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Scientific Calculator
 
 A beginner-friendly, GUI-based scientific calculator built with Python and Tkinter.
@@ -13,12 +13,11 @@ A beginner-friendly, GUI-based scientific calculator built with Python and Tkint
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/scientific-calculator.git
+   git clone https://github.com/snjugunanjenga/TkinterScientificCalculator
 
 ---
 
 Author: SNN  
 Email: simonnjenganjuguna@gmail.com
 =======
-# TkinterScientificCalculator
->>>>>>> e98802890af97410256259f1e531a2deb83a3a1b
+
