@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Scientific Calculator
 
 A beginner-friendly, GUI-based scientific calculator built with Python and Tkinter.
@@ -18,3 +19,6 @@ A beginner-friendly, GUI-based scientific calculator built with Python and Tkint
 
 Author: SNN  
 Email: simonnjenganjuguna@gmail.com
+=======
+# TkinterScientificCalculator
+>>>>>>> e98802890af97410256259f1e531a2deb83a3a1b
