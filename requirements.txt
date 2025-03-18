@@ -1,0 +1,2 @@
+# This project uses the built-in Tkinter library, which is included with Python.
+# Recommended Python version: 3.6+
